@@ -5,12 +5,36 @@ body{
     /* Poppins fond add  */
     font-family: 'Poppins', sans-serif;
     margin: 0%;
-    padding: 0%;
-   
+    padding: 0%; 
 }
+/* navber area  */
 .nav-container{
     height: 80px;
 }
 .nav-tittle{
     color: #3E3E3E;
+}
+/* Our package section start */
+.common-color{
+    color: #231D4F;
+}
+.coloring-card{
+    background-color: #3F87F5;
+    border-radius: 30px;
+}
+.hot-corner{
+    position: absolute;
+    top: -10px;
+    right: 20px;
+    padding: 6px 10px;
+    background-color: #FF4E4E;
+}
+/* Our package section end  */
+/* accordion section start  */
+
+
+/* footer section  */
+footer{
+    
+    background-color: #0B0D17;
 }
